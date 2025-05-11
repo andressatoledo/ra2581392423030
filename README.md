@@ -1,2 +1,1 @@
-# ra2581392423030
-Repositório do aluno ANDRESSA STEPHANE TOLEDO DA SILVA.
+# Portfólio de Projetos - Fatec Jacareí ### Aluno: [Andressa Stéphane Toledo da Silva] ### Curso: Desenvolvimento de Software Multiplataforma ### Turma: 1o. Semestre de 2025
